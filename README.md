@@ -1,12 +1,12 @@
 # Tienda de ropa
-Este proyecto consiste en crear una tienda de ropa con un catálogo de productos y un dashboard para el administrador, desde donde se podrá actualizar o eliminar un producto. Los nuevos productos se almacenarán en una base de datos de Mongo en Atlas. 
+Este proyecto consiste en una tienda de ropa con un catálogo de productos y un dashboard para el administrador, desde donde se podrá actualizar o eliminar un producto. Los nuevos productos se almacenarán en una base de datos de Mongo en Atlas. 
 
 ## Arrancar el proyecto
 Para iniciar nuestra aplicación se han de seguir los siguientes pasos: 
 1. Descargar el repositorio y entrar en la carpeta descargada en nuestro equipo
 ~~~
-https://github.com/soniamartinezz/backend-project-break.git
-cd backend-project-break
+https://github.com/soniamartinezz/app-shop.git
+cd app-shop
 ~~~
 
 2. Instalar depedencias 
